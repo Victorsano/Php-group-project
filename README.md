@@ -1,4 +1,10 @@
 # Php-group-project
 Php sql project
 #GROUP 14 MEMBERS.
-Adegbusivictor |boluwatife |231188 |Victorsano|
+Code
+
+| Feature | Description | Status |
+|---|---|---|
+| User Authentication | Secure login and registration | Implemented |
+| Data Storage | Database integration | In Progress |
+| API Endpoints | RESTful API design | Planned |
