@@ -6,7 +6,7 @@ Code
 | Name | Matric | Github Name |
 |---|---|---|
 | Adegbusi victor boluwatife | 23/1188 | Victorsano |
-| Amara | 23/ | Amara4567 |
-| Anu | 23/ | Max-millian |
+| Dim Blessing Amarachukwu  | 23/0426 | Amara4567 |
+| Adeniyi Anuoluwa Maximillian | 23/1772 | Max-millian |  
 |  | 23/ | AsedaBoluwatife |
 |  | 23/ |  |
