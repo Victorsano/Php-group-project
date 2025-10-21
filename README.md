@@ -3,8 +3,10 @@ Php sql project
 #GROUP 14 MEMBERS.
 Code
 
-| Feature | Description | Status |
+| Name | Matric | Github Name |
 |---|---|---|
-| User Authentication | Secure login and registration | Implemented |
-| Data Storage | Database integration | In Progress |
-| API Endpoints | RESTful API design | Planned |
+| Adegbusi victor boluwatife | 23/1188 | Victorsano |
+| Amara | 23/ | Amara4567 |
+| Anu | 23/ | Max-millian |
+|  | 23/ | AsedaBoluwatife |
+|  | 23/ |  |
