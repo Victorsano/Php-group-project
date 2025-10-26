@@ -1,0 +1,131 @@
+    body {
+      font-family: Arial, sans-serif;
+      background: #e9ecef;
+      color: #222;
+      margin: 0;
+    }
+
+    .container {
+      width: 90%;
+      max-width: 800px;
+      margin: 20px auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+
+/* Header code */
+.site-header {
+  background: #111;
+  color: #f8f9fa;
+  padding: 12px 0;
+}
+.site-header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.site-header a {
+  color: #00bfff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+.site-header a:hover { color: #66d9ff; }
+
+/* Posts */
+h1, h2, h3 { margin-top: 0; }
+.post { border-bottom: 1px solid #ccc; padding: 10px 0; }
+.meta { color: #555; font-size: 0.9em; }
+
+/* Forms */
+input, textarea {
+  width: 100%;
+
+  padding: 8px;
+  margin: 6px 0;
+  border: 1px solid #bbb;
+  border-radius: 5px;
+}
+button {
+  background: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover { background: #0056b3; }
+   .error { color: #c00; font-weight: bold; }
+
+/* Footer  */
+.site-footer {
+  background: #111;
+  color: #f8f9fa;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 40px;
+  border-top: 2px solid #00bfff;
+}
+.footer-links a {
+  color: #00bfff;
+  margin: 0 6px;
+  text-decoration: none;
+}
+.footer-links a:hover { color: #66d9ff; }
+
+
+/* Comments sections */
+
+ .comments {
+  margin-top: 30px;
+}
+ .comment {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+.comment p   {
+  margin:  4px 0;
+}
+.comments  textarea,
+.comments input[type=text] {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+.comments button {
+  background: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.comments button:hover {
+  background: #0056b3;
+}
+
+/* Pagination css code*/
+.pagination {
+  margin-top: 20px;
+  text-align: center;
+}
+.pagination a {
+  display: inline-block;
+  margin: 0 5px;
+  padding: 6px 10px;
+  border: 1px solid #007bff;
+  border-radius: 5px;
+  color: #007bff;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.pagination a:hover,
+
+.pagination a.active {
+  background: #007bff;
+  color: #fff;
+}
