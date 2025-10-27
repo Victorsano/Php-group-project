@@ -10,4 +10,4 @@ Code
 | Adeniyi Anuoluwa Maximillian | 23/1772 | Max-millian |  
 | Anigbo Wisdom John | 23/2038 | w-3-john |
 | Aseda Boluwatife Emmanuel | 23/1185 | AsedaBoluwatife |
-![Login page](./login.png)
+![Login page](login.png)
